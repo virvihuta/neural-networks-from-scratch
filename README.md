@@ -1,1 +1,1 @@
-This repo contains 30 hand-solved neural networks from scratch (forward pass, backpropagation, optimization). Each PDF shows the full calculations and derivations. A neural network a day keeps the doctor away ;)
+This repo contains hand-solved neural networks from scratch (forward pass, backpropagation, optimization). Each PDF shows the full calculations and derivations. A neural network a day keeps the doctor away ;)
